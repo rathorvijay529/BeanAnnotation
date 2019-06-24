@@ -1,0 +1,5 @@
+@Bean = It is used to define a Bean and there is no use @ComponentScan. If we are not giving the bean name then the method name will be the bean name, Otherwise we will specify the
+bean name explicitly
+ 1. We can give the multiple name to the bean.
+ 
+ @PropertySource = It is used to reading the file from the ClassPath in the configuration file which is annotated with @Configuration.
